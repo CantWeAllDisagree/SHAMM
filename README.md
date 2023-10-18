@@ -6,9 +6,9 @@ Planned to be a full feature ingame hotkey and macro setting manager
 
 
 In Progress Features
--[ ] Hotkey Names with command descriptions
--[ ] Page for editing macros
--[ ] Page for editing commands
--[ ] Ability to add and remove keybinds
--[ ] Better Gui interface
--[ ] Other setting features? 
+* -[ ] Hotkey Names with command descriptions
+* -[ ] Page for editing macros
+* -[ ] Page for editing commands
+* -[ ] Ability to add and remove keybinds
+* -[ ] Better Gui interface
+* -[ ] Other setting features? 
