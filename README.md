@@ -12,3 +12,8 @@ In Progress Features
 * -[ ] Ability to add and remove keybinds
 * -[ ] Better Gui interface
 * -[ ] Other setting features? 
+
+
+
+Requires [Python](https://www.python.org/) & [PyQt6](https://pypi.org/project/PyQt6/) to run or build.
+
